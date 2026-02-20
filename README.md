@@ -32,7 +32,7 @@ More projects coming soon.
 
 ## 📌 Featured Project
 
-- [Web Lab Collections](https://justLcoder.github.io/Web-Lab-Collections/)  
+- [Web Lab Collections](https://justLcoder.github.io/web-lab-collections/)  
   A collection of web lab assignments and experiments.
 
 ---
