@@ -1,16 +1,44 @@
 # Shahzod
 
-Software Engineering student focused on building real-world development skills.
+Software Engineering student who likes building stuff.
 
-## Current Focus
-- Strengthening Git & version control workflow
-- Deepening JavaScript fundamentals
-- Building structured web projects
+---
 
-## Featured Project
-- [Web Lab Collections](https://justLcoder.github.io/Web-Lab-Collections/)
+## 🚀 What I’m Focused On
 
-## Goals
-- Write cleaner, more maintainable code
-- Build projects beyond coursework
-- Develop strong software engineering foundations
+- Getting comfortable with Git and proper version control workflows  
+- Going deeper into JavaScript fundamentals  
+- Building small but well-structured web projects  
+
+---
+
+## 🛠️ Currently Building
+
+### 🔍 Google Search Clone  
+Rebuilding Google’s homepage from scratch to understand how real interfaces are structured and behave.
+
+Working on:
+- Custom autocomplete system  
+- Dark mode with saved preference  
+- Clean HTML/CSS/JS structure  
+- Real search integration  
+
+Repository:  
+https://github.com/justLcoder/google-clone  
+
+More projects coming soon.
+
+---
+
+## 📌 Featured Project
+
+- [Web Lab Collections](https://justLcoder.github.io/Web-Lab-Collections/)  
+  A collection of web lab assignments and experiments.
+
+---
+
+## 🎯 Goals
+
+- Write cleaner, more maintainable code  
+- Build projects outside of coursework  
+- Strengthen my software engineering foundations  
