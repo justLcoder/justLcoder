@@ -14,7 +14,7 @@ Software Engineering student who likes building stuff.
 
 ## 🛠️ Currently Building
 
-### 🔍 Google Search Clone  
+### 🔍 Google Homepage Clone  
 Rebuilding Google’s homepage from scratch to understand how real interfaces are structured and behave.
 
 Working on:
